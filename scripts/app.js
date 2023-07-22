@@ -15,7 +15,7 @@ let hr_dot = document.querySelector(".hr_dot");
 let min_dot = document.querySelector(".min_dot");
 let sec_dot = document.querySelector(".sec_dot");
 
-let endDate = "01/01/2023 00:00:00";
+let endDate = "01/01/2024 00:00:00";
 // date format mm/dd/yy
 
 
